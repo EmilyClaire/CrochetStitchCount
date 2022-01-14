@@ -1,4 +1,4 @@
 # Created by pytest automatically.
 .vscode
 .pytest_cache
-main/file_logic/__pycache__/read_file.cpython-310.pyc
+**/__pycache__
